@@ -1,0 +1,23 @@
+{
+  "name": "kwiggo",
+  "version": "1.0.0",
+  "description": "clone of swiggy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shreyansh",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.9.0",
+    "@tailwindcss/postcss": "^4.1.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.22.3",
+    "tailwindcss": "^4.1.13"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
